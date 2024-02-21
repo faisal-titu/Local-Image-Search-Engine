@@ -42,7 +42,7 @@ This image search engine leverages the power of ChromaDB, Streamlit, and CLIP to
 2. Install the required dependencies (`pip install -r requirements.txt`).
 3. Replace the example image paths in `console.py` with your actual image locations.
 4. Run the application: `streamlit run app.py`.
-6. Use the text input field to enter your search query and explore the results.
+5. Use the text input field to enter your search query and explore the results.
 
 ## Contributing
 
